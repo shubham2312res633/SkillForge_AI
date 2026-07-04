@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Local Databases & Mock Data
+mockDb.json
+*.db
+*.sqlite
+
+# Build & Output directories
+dist/
+build/
+.vite/
+out/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Temp / Log Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+logs/
+*.log
+
+# Antigravity shell wrapper
+powershell.bat

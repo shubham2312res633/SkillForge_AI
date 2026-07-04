@@ -1,0 +1,15 @@
+{
+  "name": "skillforge-workspace",
+  "version": "1.0.0",
+  "description": "SkillForge AI Workspace",
+  "scripts": {
+    "setup": "npm run setup:backend && npm run setup:frontend",
+    "setup:backend": "cd backend && npm install",
+    "setup:frontend": "cd frontend && npm install",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
