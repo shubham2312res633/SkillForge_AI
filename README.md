@@ -24,7 +24,7 @@ Here is a preview of the SkillForge AI interface. Place your screenshots in the 
 
 | 💬 Interactive Mock Interview | 🤖 Agent Activity Logs |
 | :---: | :---: |
-| ![Mock Interview](docs/screenshots/interview.png) | ![Agent Activity](docs/screenshots/agent_activity.png) |
+| ![Mock Interview](https://github.com/shubham2312res633/SkillForge_AI/blob/8971f3ec5ef2e95666c29404cffd8c5dec98b32b/Screenshots/Interview%20simulation.png | ![Agent Activity](docs/screenshots/agent_activity.png) |
 
 | 🎯 Target Career Role Selection | 💼 Project & Job Recommendations |
 | :---: | :---: |
