@@ -2,7 +2,7 @@
 
 SkillForge AI is an advanced career operating system powered by a cooperating multi-agent system. It analyzes technical portfolios, maps custom month-by-month roadmaps, suggests tailor-made portfolio projects, conducts interactive mock interviews, and dynamically tracks readiness metrics.
 
-[Thumbnail](https://github.com/shubham2312res633/SkillForge_AI/blob/12bc35e32dd46b13b280e06aa110d097a8ff9838/Screenshots/skillforge%20ai%20Thumbnail.png)
+![SkillForge AI ](https://github.com/shubham2312res633/SkillForge_AI/blob/12bc35e32dd46b13b280e06aa110d097a8ff9838/Screenshots/skillforge%20ai%20Thumbnail.png)
 
 
 🏆 Capstone Project built during the **5-Day AI Agents Intensive: Vibe Coding Course with Google** for the **Kaggle AI Agents Hackathon**, applying autonomous multi-agent architecture, MCP tools, and AI workflows to solve real-world career development challenges.
@@ -31,11 +31,9 @@ Here is a preview of the SkillForge AI interface. Place your screenshots in the 
 | :---: | :---: |
 | ![Mock Interview](https://github.com/shubham2312res633/SkillForge_AI/blob/8971f3ec5ef2e95666c29404cffd8c5dec98b32b/Screenshots/Interview%20simulation.png) | ![Agent Activity](https://github.com/shubham2312res633/SkillForge_AI/blob/62e5b362c35ebdcdcfe29dd011f2b5f95797707a/Screenshots/Agent%20activity.png) |
 
-| 🎯 Target Career Role Selection | 💼 Project & Job Recommendations |
+| 🎯 Target Career Role Selection 
 | :---: | :---: |
-| ![Target Role Selection](https://github.com/shubham2312res633/SkillForge_AI/blob/72926b642148964f893c12e88cf55a0ecc692012/Screenshots/Target%20role.png) | ![Recommendations](docs/screenshots/recommendations.png) |
-
----
+| ![Target Role Selection](https://github.com/shubham2312res633/SkillForge_AI/blob/72926b642148964f893c12e88cf55a0ecc692012/Screenshots/Target%20role.png) 
 
 
 ## 🛠️ Technology Stack
