@@ -4,6 +4,8 @@ SkillForge AI is an advanced career operating system powered by a cooperating mu
 
 ---
 
+🏆 Capstone Project built during the **5-Day AI Agents Intensive: Vibe Coding Course with Google** for the **Kaggle AI Agents Hackathon**, applying autonomous multi-agent architecture, MCP tools, and AI workflows to solve real-world career development challenges.
+
 ## 🚀 Key Capabilities
 
 - **PII Scrubbing & Injection Audit**: Intercepts input payloads, redacting sensitive personal data (emails, phone numbers) and blocking prompt injections.
