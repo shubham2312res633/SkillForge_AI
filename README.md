@@ -20,7 +20,7 @@ Here is a preview of the SkillForge AI interface. Place your screenshots in the 
 
 | 📊 Dashboard & ATS Grading | 🗺️ Dynamic Milestone Roadmap |
 | :---: | :---: |
-| ![Dashboard Overview](docs/screenshots/dashboard.png) | ![Roadmap Planner](docs/screenshots/roadmap.png) |
+| ![Dashboard Overview](https://github.com/shubham2312res633/SkillForge_AI/blob/b1407f38d378c5b3b27f7d1cf6c9dfadff65fe65/Screenshots/Dashboard.png) | ![Roadmap Planner](docs/screenshots/roadmap.png) |
 
 | 💬 Interactive Mock Interview | 🤖 Agent Activity Logs |
 | :---: | :---: |
