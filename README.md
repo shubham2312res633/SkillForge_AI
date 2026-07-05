@@ -14,6 +14,24 @@ SkillForge AI is an advanced career operating system powered by a cooperating mu
 - **Persistent JSON Mock database fallback**: If MongoDB is not active locally, the backend launches in **In-Memory Mock Database Mode** with local JSON file persistence ([mockDb.json](file:///c:/Users/shubh/OneDrive/Desktop/Capstone%20Project/backend/config/mockDb.json)).
 
 ---
+## 📸 Project Demo & Screenshots
+
+Here is a preview of the SkillForge AI interface. Place your screenshots in the `docs/screenshots/` folder and link them below:
+
+| 📊 Dashboard & ATS Grading | 🗺️ Dynamic Milestone Roadmap |
+| :---: | :---: |
+| ![Dashboard Overview](docs/screenshots/dashboard.png) | ![Roadmap Planner](docs/screenshots/roadmap.png) |
+
+| 💬 Interactive Mock Interview | 🤖 Agent Activity Logs |
+| :---: | :---: |
+| ![Mock Interview](docs/screenshots/interview.png) | ![Agent Activity](docs/screenshots/agent_activity.png) |
+
+| 🎯 Target Career Role Selection | 💼 Project & Job Recommendations |
+| :---: | :---: |
+| ![Target Role Selection](docs/screenshots/target_role.png) | ![Recommendations](docs/screenshots/recommendations.png) |
+
+---
+
 
 ## 🛠️ Technology Stack
 
